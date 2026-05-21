@@ -22,6 +22,7 @@ This repository contains Playwright and JavaScript learning examples organized b
 - `if_else_eg.js` - Examples of if/else branching.
 - `IQ_if_else.js` - Interview question practice for if/else logic.
 - `leap_year.js` - Leap year decision logic.
+- `login_validation.js` - Login validation using boolean checks.
 - `my_eg.js` - Custom if/else example.
 - `task_01.js`, `task_02.js`, `task3.js` - If/else practice tasks.
 - `testcase_pass_fail_check.js` - Pass/fail checking with conditional logic.
