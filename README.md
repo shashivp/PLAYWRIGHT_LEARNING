@@ -1,6 +1,6 @@
 # Playwright Learning
 
-This repository contains Playwright and JavaScript learning examples organized by chapter.
+This repository contains Playwright and JavaScript learning examples organized by chapter. It is focused on JavaScript fundamentals and Playwright usage for browser automation practice.
 
 ## Structure
 
@@ -27,6 +27,11 @@ This repository contains Playwright and JavaScript learning examples organized b
 - `task_01.js`, `task_02.js`, `task3.js` - If/else practice tasks.
 - `testcase_pass_fail_check.js` - Pass/fail checking with conditional logic.
 
+### chapter_08_FOR_loop
+- `fizz_buzz.js` - FizzBuzz implementation and loop practice.
+- `FOR_loop_eg.js` - For-loop examples and patterns.
+- `Triangle_classifier.js` - Triangle classification using loops.
+
 ## Notes
 
 - The repository is intended for learning Playwright and JavaScript basics.
@@ -35,11 +40,26 @@ This repository contains Playwright and JavaScript learning examples organized b
 
 ## Usage
 
-1. Install dependencies if needed.
-2. Run sample scripts with Node.js:
+1. Install Node.js (v14+) if not already installed.
+2. Run sample scripts with Node.js. Examples:
 
 ```powershell
 node chapter_01_JS_Basics/02_Verify_setup.js
+node chapter_08_FOR_loop/fizz_buzz.js
 ```
 
-3. Run other examples similarly by specifying the script path.
+3. To run Playwright tests you add later, install Playwright and its browsers:
+
+```powershell
+npm init -y
+npm i -D playwright
+npx playwright install
+```
+
+## Git
+
+- Commit changes locally with `git commit -m "message"` and push to your remote with `git push`.
+
+---
+
+Keep adding examples as you learn; contributions and improvements are welcome.
