@@ -17,3 +17,13 @@ const test8 = function() {              //store fn in test8 and use const always
 }
 
 test8();                                //call by name
+
+
+
+//eg2:
+const test3 = function() {
+    console.log("hello");
+
+}
+
+test3();

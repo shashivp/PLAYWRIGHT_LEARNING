@@ -44,8 +44,12 @@ This repository contains Playwright and JavaScript learning examples organized b
 
 ### chapter_10_function
 - `Arrow_fn.js` - Arrow function syntax and examples.
+- `default_params.js` - Default function parameters.
 - `fn_as_expression.js` - Function expressions and callbacks.
+- `fn_in_diff_way.js` - Different ways to define and call functions.
 - `function_notes.js` - Function basics and notes.
+- `IIFE.js` - Immediately Invoked Function Expressions.
+- `Rest_of_params.js` - Rest parameters and variable argument handling.
 - `Type_1_fn.js`, `Type_2_fn.js`, `Type_3_fn.js`, `Type_4_fn.js` - Function type examples.
 
 ## Notes
