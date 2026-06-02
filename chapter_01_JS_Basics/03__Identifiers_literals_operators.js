@@ -11,3 +11,4 @@ console.log(a);
 //1. It can contain letters, digits, underscores and dollar signs
 //2. It must begin with a letter, underscore or dollar sign
 //3. It cannot be a reserved keyword
+//4. Should not start with digit.

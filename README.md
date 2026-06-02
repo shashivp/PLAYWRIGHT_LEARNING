@@ -32,6 +32,22 @@ This repository contains Playwright and JavaScript learning examples organized b
 - `FOR_loop_eg.js` - For-loop examples and patterns.
 - `Triangle_classifier.js` - Triangle classification using loops.
 
+### chapter_09_Array
+- `Array_access&modify.js` - Array element access and modification.
+- `Array_functions.js` - Common array methods and usage.
+- `Array_index.js` - Finding element indexes in arrays.
+- `concat.js`, `create_array.js` - Combining and creating arrays.
+- `every.js`, `some.js` - Boolean checks over array elements.
+- `find.js`, `includes.js` - Searching arrays.
+- `pop.js`, `push.js`, `shift.js`, `unshift.js` - Array mutation methods.
+- `slicing.js`, `sort.js`, `splice.js` - Array transformation methods.
+
+### chapter_10_function
+- `Arrow_fn.js` - Arrow function syntax and examples.
+- `fn_as_expression.js` - Function expressions and callbacks.
+- `function_notes.js` - Function basics and notes.
+- `Type_1_fn.js`, `Type_2_fn.js`, `Type_3_fn.js`, `Type_4_fn.js` - Function type examples.
+
 ## Notes
 
 - The repository is intended for learning Playwright and JavaScript basics.
