@@ -1,6 +1,7 @@
 //Rets of param can take any number of arguements.
 //it can be written only at the end
 //it is array of object (o/p is in array format).
+//syntax: ...name
 
 
 
