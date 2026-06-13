@@ -76,6 +76,7 @@ This repository contains Playwright and JavaScript learning examples organized b
 ```powershell
 node chapter_01_JS_Basics/02_Verify_setup.js
 node chapter_08_FOR_loop/fizz_buzz.js
+node chapter_15_Promises/notes.js
 ```
 
 3. To run Playwright tests you add later, install Playwright and its browsers:
