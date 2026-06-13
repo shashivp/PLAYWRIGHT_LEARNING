@@ -52,6 +52,9 @@ This repository contains Playwright and JavaScript learning examples organized b
 - `Rest_of_params.js` - Rest parameters and variable argument handling.
 - `Type_1_fn.js`, `Type_2_fn.js`, `Type_3_fn.js`, `Type_4_fn.js` - Function type examples.
 
+### chapter_14_callback
+- `callback.js` - Callback function examples and asynchronous-style control flow with functions passed as arguments.
+
 ### chapter_13_Multidimensional_array
 - `matrix.js` - Multidimensional array example using a 3x3 grid and nested loops.
   Prints all values from a 2D array using `matri[i][j]` access.
