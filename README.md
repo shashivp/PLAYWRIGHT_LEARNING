@@ -55,6 +55,9 @@ This repository contains Playwright and JavaScript learning examples organized b
 ### chapter_14_callback
 - `callback.js` - Callback function examples and asynchronous-style control flow with functions passed as arguments.
 
+### chapter_15_Promises
+- `notes.js` - Promise fundamentals, including states, resolve/reject, `.then`, `.catch`, `.finally`, and `Promise.all` behavior.
+
 ### chapter_13_Multidimensional_array
 - `matrix.js` - Multidimensional array example using a 3x3 grid and nested loops.
   Prints all values from a 2D array using `matri[i][j]` access.
