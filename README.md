@@ -24,6 +24,7 @@ This repository is a hands-on learning workspace for JavaScript fundamentals and
 - chapter_14_callback - callback examples
 - chapter_15_Promises - promises and async flow
 - chapter_16_async_await - async/await examples
+- chapter_17_OOPS - object-oriented programming practice with encapsulation and class examples
 - OOPS_Concepts_TS - object-oriented programming concepts in JavaScript/TypeScript style
 - playwright_basics - Playwright setup and sample tests
 
