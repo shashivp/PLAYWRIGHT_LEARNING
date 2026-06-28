@@ -1,96 +1,61 @@
 # Playwright Learning
 
-This repository contains Playwright and JavaScript learning examples organized by chapter. It is focused on JavaScript fundamentals and Playwright usage for browser automation practice.
+This repository is a hands-on learning workspace for JavaScript fundamentals and Playwright automation. It contains topic-based practice files, small examples, and beginner-friendly exercises organized by chapter.
 
-## Structure
+## What is included
 
-### chapter_01_JS_Basics
-- `01_Basics.js` - Basic Playwright examples.
-- `02_Verify_setup.js` - Browser setup and verification sample.
-- `03__Identifiers_literals_operators.js` - JavaScript fundamentals practice.
-- `04_comments.js` - JavaScript comments examples.
+- JavaScript basics and syntax practice
+- Variables, hoisting, loops, arrays, functions, strings, objects, and callbacks
+- Promise and async/await examples
+- Object-oriented programming examples in TypeScript/JavaScript
+- Playwright basics and example test structure
 
-### chapter_02_var_let_const
-- `05_var.js` - `var` declaration examples.
-- `06_let.js` - `let` declaration examples.
-- `07_const.js` - `const` declaration examples.
-- `08_diff_var_let_const.js` - Differences between `var`, `let`, and `const`.
-- `09_Hoisting_in_var.js` - Hoisting behavior with `var`.
-- `10_Hoisting_in_fn.js` - Hoisting behavior in functions.
+## Project structure
 
-### chapter_07_if_else
-- `if_else_eg.js` - Examples of if/else branching.
-- `IQ_if_else.js` - Interview question practice for if/else logic.
-- `leap_year.js` - Leap year decision logic.
-- `login_validation.js` - Login validation using boolean checks.
-- `my_eg.js` - Custom if/else example.
-- `task_01.js`, `task_02.js`, `task3.js` - If/else practice tasks.
-- `testcase_pass_fail_check.js` - Pass/fail checking with conditional logic.
+- chapter_01_JS_Basics - basic JavaScript and setup examples
+- chapter_02_var_let_const - var, let, const, and hoisting practice
+- chapter_07_if_else - conditional logic exercises
+- chapter_08_FOR_loop - loops and pattern-based problems
+- chapter_09_Array - array methods and operations
+- chapter_10_function - function declarations, expressions, arrow functions, and IIFE
+- chapter_11_String - string methods and examples
+- chapter_12_Objects - object-oriented practice files
+- chapter_13_Multidimensional_array - matrix and nested array examples
+- chapter_14_callback - callback examples
+- chapter_15_Promises - promises and async flow
+- chapter_16_async_await - async/await examples
+- OOPS_Concepts_TS - object-oriented programming concepts in JavaScript/TypeScript style
+- playwright_basics - Playwright setup and sample tests
 
-### chapter_08_FOR_loop
-- `fizz_buzz.js` - FizzBuzz implementation and loop practice.
-- `FOR_loop_eg.js` - For-loop examples and patterns.
-- `Triangle_classifier.js` - Triangle classification using loops.
+## Getting started
 
-### chapter_09_Array
-- `Array_access&modify.js` - Array element access and modification.
-- `Array_functions.js` - Common array methods and usage.
-- `Array_index.js` - Finding element indexes in arrays.
-- `concat.js`, `create_array.js` - Combining and creating arrays.
-- `every.js`, `some.js` - Boolean checks over array elements.
-- `find.js`, `includes.js` - Searching arrays.
-- `pop.js`, `push.js`, `shift.js`, `unshift.js` - Array mutation methods.
-- `slicing.js`, `sort.js`, `splice.js` - Array transformation methods.
+1. Install Node.js (version 18 or newer is recommended).
+2. Install dependencies:
 
-### chapter_10_function
-- `Arrow_fn.js` - Arrow function syntax and examples.
-- `default_params.js` - Default function parameters.
-- `fn_as_expression.js` - Function expressions and callbacks.
-- `fn_in_diff_way.js` - Different ways to define and call functions.
-- `function_notes.js` - Function basics and notes.
-- `IIFE.js` - Immediately Invoked Function Expressions.
-- `Rest_of_params.js` - Rest parameters and variable argument handling.
-- `Type_1_fn.js`, `Type_2_fn.js`, `Type_3_fn.js`, `Type_4_fn.js` - Function type examples.
+```powershell
+npm install
+```
 
-### chapter_14_callback
-- `callback.js` - Callback function examples and asynchronous-style control flow with functions passed as arguments.
+3. Run a JavaScript example:
 
-### chapter_15_Promises
-- `notes.js` - Promise fundamentals, including states, resolve/reject, `.then`, `.catch`, `.finally`, and `Promise.all` behavior.
+```powershell
+node chapter_08_FOR_loop/fizz_buzz.js
+```
 
-### chapter_13_Multidimensional_array
-- `matrix.js` - Multidimensional array example using a 3x3 grid and nested loops.
-  Prints all values from a 2D array using `matri[i][j]` access.
+4. Run Playwright tests from the Playwright project folder:
+
+```powershell
+cd playwright_basics
+npx playwright test
+```
 
 ## Notes
 
-- The repository is intended for learning Playwright and JavaScript basics.
-- Files are organized into chapter folders to keep examples structured.
-- Add more chapters and practice scripts as you continue learning.
-
-## Usage
-
-1. Install Node.js (v14+) if not already installed.
-2. Run sample scripts with Node.js. Examples:
-
-```powershell
-node chapter_01_JS_Basics/02_Verify_setup.js
-node chapter_08_FOR_loop/fizz_buzz.js
-node chapter_15_Promises/notes.js
-```
-
-3. To run Playwright tests you add later, install Playwright and its browsers:
-
-```powershell
-npm init -y
-npm i -D playwright
-npx playwright install
-```
+- This repository is meant for learning and practice.
+- Files are organized by chapter to make topics easier to follow.
+- New examples can be added as you continue learning.
 
 ## Git
 
-- Commit changes locally with `git commit -m "message"` and push to your remote with `git push`.
-
----
-
-Keep adding examples as you learn; contributions and improvements are welcome.
+- Commit changes locally with: `git add .` and `git commit -m "your message"`
+- Push changes to the remote with: `git push`

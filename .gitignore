@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+playwright_basics/test-results/
+playwright_basics/playwright-report/
