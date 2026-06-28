@@ -1,0 +1,24 @@
+{
+  "name": "playwright_learning",
+  "version": "1.0.0",
+  "description": "This repository contains Playwright and JavaScript learning examples organized by chapter. It is focused on JavaScript fundamentals and Playwright usage for browser automation practice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashivp/PLAYWRIGHT_LEARNING.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shashivp/PLAYWRIGHT_LEARNING/issues"
+  },
+  "homepage": "https://github.com/shashivp/PLAYWRIGHT_LEARNING#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.0"
+  }
+}
