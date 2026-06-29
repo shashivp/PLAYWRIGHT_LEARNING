@@ -60,7 +60,8 @@ npx playwright test
 ## Repository updates
 
 - Updated README instructions for Playwright setup and test execution.
-- Commit and push this change to the `main` branch.
+- Confirmed the repository is on `main` before committing and pushing.
+- This README now includes the latest commands for installing and running Playwright tests.
 
 ## Git
 
