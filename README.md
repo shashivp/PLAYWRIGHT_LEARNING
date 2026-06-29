@@ -47,6 +47,7 @@ node chapter_08_FOR_loop/fizz_buzz.js
 
 ```powershell
 cd playwright_basics
+npm install
 npx playwright test
 ```
 
