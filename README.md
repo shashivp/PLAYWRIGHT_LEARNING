@@ -57,6 +57,11 @@ npx playwright test
 - Files are organized by chapter to make topics easier to follow.
 - New examples can be added as you continue learning.
 
+## Repository updates
+
+- Updated README instructions for Playwright setup and test execution.
+- Commit and push this change to the `main` branch.
+
 ## Git
 
 - Commit changes locally with: `git add .` and `git commit -m "your message"`
